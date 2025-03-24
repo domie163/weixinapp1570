@@ -1,0 +1,1 @@
+<mescroll-uni vue-id="565148c2-1" up="{{upOption}}" down="{{downOption}}" bottom="{{100}}" data-event-opts="{{[['^init',[['mescrollInit']]],['^down',[['downCallback']]],['^up',[['upCallback']]]]}}" bind:init="__e" bind:down="__e" bind:up="__e" bind:__l="__l"></mescroll-uni>

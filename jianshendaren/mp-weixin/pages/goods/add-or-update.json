@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#990033",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "商品信息添加",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}

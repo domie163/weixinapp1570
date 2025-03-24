@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#990033",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "商品信息详情",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
